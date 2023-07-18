@@ -1,0 +1,22 @@
+.app {
+  padding: 20px;
+  display: flex;
+  gap: 50px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.app form {
+  display: flex;
+  gap: 20px;
+}
+
+.app form label {
+  display: flex;
+  gap: 10px;
+}
+
+.app span {
+  display: flex;
+  gap: 10px;
+}
